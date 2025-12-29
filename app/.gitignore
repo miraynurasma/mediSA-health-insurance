@@ -1,0 +1,12 @@
+# Model dosyaları çok büyüktür, yükleme!
+*.h5
+*.keras
+*.pt
+saved_model/
+
+# Gereksiz sistem dosyaları
+__pycache__/
+*.pyc
+.env
+.DS_Store
+venv/
